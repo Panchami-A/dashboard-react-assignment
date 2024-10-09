@@ -40,3 +40,13 @@ Ensure you have the following installed on your machine:
 
 3. Run npm install to install the depndencies
 4. Run npm start to start the application
+
+## Dark Theme Dashboard and Order list
+
+![Dark theme dashboard](public/Dark-theme-dashboard.png)
+![Dark theme order list](public/Dark-theme-order-list.png)
+
+## Dark Theme Dashboard and Order list
+
+![Light theme dashboard](public/Light-theme-dashboard.png)
+![Light theme order-list](public/Light-theme-order-list.png)

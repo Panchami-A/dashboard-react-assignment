@@ -1,0 +1,48 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+  gap: 28px;
+}
+
+.dashboard-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 436px;
+}
+
+.dashboard-item {
+  padding: 24px;
+  margin: 8px;
+  width: 202px;
+  height: 112px;
+  min-width: 200px;
+  border-radius: 16px !important;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container {
+  display: flex;
+}
+
+.revenue-data {
+  display: flex;
+  flex-direction: column;
+}
+
+.revenue {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.revenue-data-index {
+  align-self: center;
+}

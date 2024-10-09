@@ -2,6 +2,10 @@
 
 This is a simple React application that features a dashboard and an order management system, allowing users to filter, view, and manage orders with status indicators.
 
+## Live Demo
+
+The application is live https://dashboard-order-assignment.netlify.app/.
+
 ## Features
 
 - **Automatic Theme Adjustment**: The application automatically detects the system's device theme. If the device is set to dark mode, the app will use a dark theme; otherwise, it will use a light theme.
